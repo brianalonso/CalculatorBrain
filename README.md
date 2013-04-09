@@ -1,4 +1,4 @@
 CalculatorBrain
 ===============
 
-Calculator Brain Homework 1
+Calculator Brain project
